@@ -22,6 +22,8 @@ Mércia Regina da Silva
 - Estes sistemas não apenas monitoram as variações climáticas, mas também orientam a população sobre medidas preventivas, como a importância da hidratação em períodos de calor intenso;
 - Essa abordagem proativa e tecnológica garante que todos possam adaptar-se e responder adequadamente às mudanças ambientais, promovendo um ambiente urbano mais seguro e habitável.
 
+![PAGE4](https://github.com/user-attachments/assets/d3b87a1b-732b-4210-a630-a1990c5bd5dd)
+
 
 
 
